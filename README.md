@@ -19,5 +19,4 @@ In a course-based learning initiative, our team will work alongside SSCF to inve
 ## Check the following document
 ENSE 271 – People Centered Design Group Project
 
-**Need to update this link**
 https://docs.google.com/document/d/1VDj-VduwX6HzHXqq9j1zUBNKUMiOaRhJWNH3WkrR4tY/edit?tab=t.0
