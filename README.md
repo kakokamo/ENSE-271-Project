@@ -20,4 +20,4 @@ In a course-based learning initiative, our team will work alongside SSCF to inve
 ENSE 271 – People Centered Design Group Project
 
 **Need to update this link**
-https://github.com/kakokamo/Ense374Project/blob/bb8c03a06f6db2a40279e3dee6aba6fbe6719820/ENSE%20374%20%E2%80%93%20Software%20Engineering%20Management%20Group%20Project.pdf
+https://docs.google.com/document/d/1VDj-VduwX6HzHXqq9j1zUBNKUMiOaRhJWNH3WkrR4tY/edit?tab=t.0
