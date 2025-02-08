@@ -1,5 +1,5 @@
 # ENSE-271-Project
-
+![Image](https://github.com/user-attachments/assets/137a0d63-e388-40a6-9f1c-86cc54ced01f)
 # Group Members
 
 * Theo Truong
